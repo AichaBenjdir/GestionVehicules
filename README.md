@@ -31,6 +31,7 @@ Ce projet a pour objectif de mettre en pratique les concepts fondamentaux de la 
 
 GestionVehicules/
 │
+
 ├── Vehicule.java                 # Classe abstraite pour un véhicule
 
 ├── Voiture.java                  # Classe pour un véhicule de type Voiture
@@ -44,8 +45,10 @@ GestionVehicules/
 ├── VoitureElectrique.java        # Sous-classe de Voiture, spécifiquement pour les véhicules électriques
 
 └── GestionVehicules.java         # Classe principale contenant la méthode main()
+
 │
 ├── bin/                          # Dossier où seront stockées les classes compilées (.class)
+
 
 └── README.md                     # Ce fichier qui décrit le projet, son objectif, et la structure
 
