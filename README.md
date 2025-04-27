@@ -5,10 +5,15 @@ Le projet **Gestion des Véhicules** est une application permettant de gérer di
 Ce projet a pour objectif de mettre en pratique les concepts fondamentaux de la programmation orientée objet (POO) en Java, notamment :
 
 ✅ Classe abstraite
+
 ✅ Héritage
+
 ✅ Polymorphisme
+
 ✅ Interface
+
 ✅ Instanciation d'objets
+
 ✅ Utilisation d'une liste (ArrayList)
 
  #  💻 Technologies utilisées
