@@ -29,7 +29,18 @@ Ce projet a pour objectif de mettre en pratique les concepts fondamentaux de la 
 
 ##  📁 Structure du projet
 
-GestionVehicules/ ├── src/ # Dossier contenant les fichiers source Java │ ├── Vehicule.java # Classe abstraite pour un véhicule │ ├── Voiture.java # Classe pour un véhicule de type Voiture │ ├── Camion.java # Classe pour un véhicule de type Camion │ ├── Moto.java # Classe pour un véhicule de type Moto │ ├── Electrique.java # Interface pour un véhicule électrique │ ├── VoitureElectrique.java # Sous-classe de Voiture, spécifiquement pour les véhicules électriques │ └── GestionVehicules.java # Classe principale contenant la méthode main() ├── bin/ # Dossier où seront stockées les classes compilées (.class) └── README.md # Ce fichier
+GestionVehicules/
+├── src/                          # Dossier contenant les fichiers source Java
+│   ├── Vehicule.java             # Classe abstraite pour un véhicule
+│   ├── Voiture.java              # Classe pour un véhicule de type Voiture
+│   ├── Camion.java               # Classe pour un véhicule de type Camion
+│   ├── Moto.java                 # Classe pour un véhicule de type Moto
+│   ├── Electrique.java           # Interface pour un véhicule électrique
+│   ├── VoitureElectrique.java    # Sous-classe de Voiture, spécifiquement pour les véhicules électriques
+│   └── GestionVehicules.java     # Classe principale contenant la méthode main()
+├── bin/                          # Dossier où seront stockées les classes compilées (.class)
+└── README.md                     # Ce fichier
+
 
 ##  🚀 Exécution du projet
 Pour exécuter ce projet sur votre machine locale, suivez les étapes suivantes :
