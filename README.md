@@ -17,15 +17,15 @@ Ce projet a pour objectif de mettre en pratique les concepts fondamentaux de la 
 ✅ Utilisation d'une liste (ArrayList)
 
  #  💻 Technologies utilisées
-Java : Langage de programmation principal.
+**Java** : Langage de programmation principal.
 
-ArrayList : Gestion dynamique des véhicules.
+**ArrayList** : Gestion dynamique des véhicules.
 
-Classes abstraites et interfaces : Structuration et extension des véhicules.
+**Classes abstraites et interfaces** : Structuration et extension des véhicules.
 
-Polymorphisme et héritage : Flexibilité et réutilisation du code.
+**Polymorphisme et héritage** : Flexibilité et réutilisation du code.
 
-Git/GitHub : Gestion de version et hébergement du projet en ligne.
+**Git/GitHub** : Gestion de version et hébergement du projet en ligne.
 
 ##  📁 Structure du projet
 
