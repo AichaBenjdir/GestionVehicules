@@ -47,8 +47,7 @@ GestionVehicules/
 └── GestionVehicules.java         # Classe principale contenant la méthode main()
 
 │
-├── bin/                          # Dossier où seront stockées les classes compilées (.class)
-
+├── bin/                          # Dossier où seront stockées les classes compilées (.class)   
 
 └── README.md                     # Ce fichier qui décrit le projet, son objectif, et la structure
 
