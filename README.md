@@ -57,11 +57,14 @@ GestionVehicules/
 Pour exécuter ce projet sur votre machine locale, suivez les étapes suivantes :
 
 1. Clonez le dépôt Git :
+   
          git clone https://github.com/AichaBenjdir/GestionVehicules.git
 
-2. Compilez les fichiers Java
+3. Compilez les fichiers Java
+   
          javac -d bin src/*.java
-3. Exécutez le projet :
+5. Exécutez le projet :
+   
          java -cp bin GestionVehicules
 
 
